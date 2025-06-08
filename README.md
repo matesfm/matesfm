@@ -6,19 +6,19 @@ Učím se webové technologie a vytvářím vlastní aplikace zaměřené na CB 
 
 ### 📍 CB Lokátor  
 Webová aplikace pro zobrazení CB stanic na mapě s využitím lokátorů a přesných souřadnic.  
-![CB Lokátor](screenshots/cb-lokator-blur.jpg)
+![CB Lokátor](screenshots/cblokator_demo.png)
 
 ---
 
 ### 🌐 CB Svět  
 Komunitní portál pro CB nadšence, novinky, články a sdílení informací.  
-![CB Svět](screenshots/cb-svet-blur.jpg)
+![CB Svět](screenshots/cb_svet_demo.png)
 
 ---
 
 ### 📘 CB Deník  
 Elektronický deník spojení, který automaticky vyhodnocuje spojení a uchovává historii operátora.  
-![CB Deník](screenshots/cb-denik-blur.jpg)
+![CB Deník](screenshots/cb_denik_demo.png)
 
 ---
 
