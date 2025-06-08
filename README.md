@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ahoj, jsem Martin 👋
 
-<!--
-**matesfm/matesfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Učím se webové technologie a vytvářím vlastní aplikace zaměřené na CB vysílání a komunitu okolo něj. 
 
-Here are some ideas to get you started:
+## 🧭 Projekty, na kterých právě pracuji:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📍 CB Lokátor  
+Webová aplikace pro zobrazení CB stanic na mapě s využitím lokátorů a přesných souřadnic.  
+![CB Lokátor](screenshots/cb-lokator-blur.jpg)
+
+---
+
+### 🌐 CB Svět  
+Komunitní portál pro CB nadšence, novinky, články a sdílení informací.  
+![CB Svět](screenshots/cb-svet-blur.jpg)
+
+---
+
+### 📘 CB Deník  
+Elektronický deník spojení, který automaticky vyhodnocuje spojení a uchovává historii operátora.  
+![CB Deník](screenshots/cb-denik-blur.jpg)
+
+---
+
+## ⚙️ Technologie
+HTML · CSS · PHP · MySQL · JavaScript · OpenStreetMap · API Seznamu
+
+---
+
+📍 Žiju ve Frýdku-Místku  
+📡 CB vysílání je moje srdcovka  
+🎯 Můj cíl: spojit moderní technologie s tradiční komunikací
